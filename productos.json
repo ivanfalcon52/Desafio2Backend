@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "mate modificado",
+    "description": "mate hermoso modificado",
+    "price": 20,
+    "thumbnail": "mate.jpg",
+    "code": "mate2024",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "title": "termo",
+    "description": "mantiene el agua caliente por mucho tiempo",
+    "price": 15,
+    "thumbnail": "termo.jpg",
+    "code": "termo2024",
+    "stock": 10
+  }
+]
